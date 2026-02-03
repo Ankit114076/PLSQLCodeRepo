@@ -1,3 +1,7 @@
+Implemented advanced PL/SQL collections with autonomous error logging:
+========================================================================
+
+
 create or replace package package_56
 as
 procedure p_r(p_cursor out sys_refcursor);
